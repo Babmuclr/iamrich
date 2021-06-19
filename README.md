@@ -1,1 +1,2 @@
 # iamrich
+gitの練習
